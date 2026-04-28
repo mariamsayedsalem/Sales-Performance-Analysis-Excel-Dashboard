@@ -43,7 +43,7 @@ This project provides a comprehensive analysis of retail sales data across vario
 
 ## 📁 Project Structure
 - `Sales Performance Dashboard.xlsx`: The main Excel file containing raw data and the dashboard.
-- `dashboard_preview.png`: Visual screenshot of the final dashboard.
+- `dashboard.png`: Visual screenshot of the final dashboard.
 
 ---
 
